@@ -1,7 +1,7 @@
 
 . Hi,i'm Ogunbanjo abdul-afeez
 
-. 🔭 I am currently into clound backend development with nodejs on the aws platform
+. 🔭 I am currently into cloud backend development with nodejs on the aws platform
 
 . 🌱 I am currently learning frontend development with react,backend development on the gcp platform, and also training to be a data scientist
 
